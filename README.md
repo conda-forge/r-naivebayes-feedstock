@@ -1,11 +1,11 @@
-About r-naivebayes
-==================
+About r-naivebayes-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-naivebayes-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/majkamichal/naivebayes, https://majkamichal.github.io/naivebayes/
 
 Package license: GPL-2
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-naivebayes-feedstock/blob/main/LICENSE.txt)
 
 Summary: In this implementation of the Naive Bayes classifier following class conditional distributions are available: Bernoulli, Categorical, Gaussian, Poisson and non-parametric representation of the class conditional density estimated via Kernel Density Estimation.
 
